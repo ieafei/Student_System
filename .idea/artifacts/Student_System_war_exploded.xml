@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Student_System:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Student_System_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Student_System/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Student_System" />
+          <element id="dir-copy" path="E:/Java/apache-tomcat-7.0.91" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$PROJECT_DIR$/web/lib/mysql-connector-java-8.0.11.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

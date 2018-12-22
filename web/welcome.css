@@ -1,0 +1,184 @@
+#sno{
+    width: 200px;
+    height: 38px;
+    padding-left: 5px;
+    line-height: 30px;
+    line-height: 38px;
+    border: 1px solid #D7D7D7;
+    background: #fff;
+    color: #333;
+    border-radius: 2px;
+    font-family: Verdana, Tahoma, Arial;
+    font-size: 16px;
+    ime-mode: disabled;
+    margin-left: 40px;
+}
+#name{
+    width: 200px;
+    height: 38px;
+    padding-left: 5px;
+    line-height: 30px;
+    line-height: 38px;
+    border: 1px solid #D7D7D7;
+    background: #fff;
+    color: #333;
+    border-radius: 2px;
+    font-family: Verdana, Tahoma, Arial;
+    font-size: 16px;
+    ime-mode: disabled;
+    margin-left: 40px;
+}
+#phone{
+    width: 200px;
+    height: 38px;
+    padding-left: 5px;
+    line-height: 30px;
+    line-height: 38px;
+    border: 1px solid #D7D7D7;
+    background: #fff;
+    color: #333;
+    border-radius: 2px;
+    font-family: Verdana, Tahoma, Arial;
+    font-size: 16px;
+    ime-mode: disabled;
+    margin-left: 25px;
+}
+#mail{
+    width: 200px;
+    height: 38px;
+    padding-left: 5px;
+    line-height: 30px;
+    line-height: 38px;
+    border: 1px solid #D7D7D7;
+    background: #fff;
+    color: #333;
+    border-radius: 2px;
+    font-family: Verdana, Tahoma, Arial;
+    font-size: 16px;
+    ime-mode: disabled;
+    margin-left: 40px;
+}
+#math{
+    width: 200px;
+    height: 38px;
+    padding-left: 5px;
+    line-height: 30px;
+    line-height: 38px;
+    border: 1px solid #D7D7D7;
+    background: #fff;
+    color: #333;
+    border-radius: 2px;
+    font-family: Verdana, Tahoma, Arial;
+    font-size: 16px;
+    ime-mode: disabled;
+    margin-left: 40px;
+}
+#english{
+    width: 200px;
+    height: 38px;
+    padding-left: 5px;
+    line-height: 30px;
+    line-height: 38px;
+    border: 1px solid #D7D7D7;
+    background: #fff;
+    color: #333;
+    border-radius: 2px;
+    font-family: Verdana, Tahoma, Arial;
+    font-size: 16px;
+    ime-mode: disabled;
+    margin-left: 40px;
+}
+#javaweb{
+    width: 200px;
+    height: 38px;
+    padding-left: 5px;
+    line-height: 30px;
+    line-height: 38px;
+    border: 1px solid #D7D7D7;
+    background: #fff;
+    color: #333;
+    border-radius: 2px;
+    font-family: Verdana, Tahoma, Arial;
+    font-size: 16px;
+    ime-mode: disabled;
+    margin-left: 5px;
+}
+#c{
+    width: 200px;
+    height: 38px;
+    padding-left: 5px;
+    line-height: 30px;
+    line-height: 38px;
+    border: 1px solid #D7D7D7;
+    background: #fff;
+    color: #333;
+    border-radius: 2px;
+    font-family: Verdana, Tahoma, Arial;
+    font-size: 16px;
+    ime-mode: disabled;
+    margin-left: 60px;
+}
+#python{
+    width: 200px;
+    height: 38px;
+    padding-left: 5px;
+    line-height: 30px;
+    line-height: 38px;
+    border: 1px solid #D7D7D7;
+    background: #fff;
+    color: #333;
+    border-radius: 2px;
+    font-family: Verdana, Tahoma, Arial;
+    font-size: 16px;
+    ime-mode: disabled;
+    margin-left: 15px;
+}
+.btn{
+    display: inline-block;
+    float: left;
+    height: 41px;
+    border-radius: 10px;
+    background: #2795dc;
+    border: none;
+    border-bottom-color: currentcolor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    cursor: pointer;
+    border-bottom: 3px solid #0078b3;
+    *border-bottom: none;
+    color: #fff;
+    font-size: 16px;
+    padding: 0 10px;
+    width: 140px;
+    text-align: center;
+    outline: none;
+    font-family: "Microsoft Yahei",Arial, Helvetica, sans-serif;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+
+.sex_girl{
+    margin-left: 50px;
+}
+.sex_boy{
+    margin-top: 20px;
+    margin-left: 110px;
+}
+.Add_Student{
+     margin-left: 500px;
+ }
+.Update_Student{
+    margin-left: 500px;
+}
+.LookStudent_name{
+    margin-left: 500px;
+    margin-top: 100px;
+}
+.LookStudent_sno{
+    margin-left: 500px;
+    margin-top: 100px;
+}
+.Change_password{
+    margin-left: 500px;
+    margin-top: 100px;
+}

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>学生界面</title>
+    <link rel="stylesheet" href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://cdn.bootcss.com/jquery/2.1.1/jquery.min.js"></script>
+    <script src="https://cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+<div class="container">
+    <frameset rows="17%, 83%" >
+        <frame src="top.jsp" >
+        <frameset cols="180,*">
+            <frame src="left_stu.jsp">
+            <frame src="right.jsp" name="showframe"
+                   style="background: #fff url(image/5.jpg) 50% 0 no-repeat;">
+        </frameset>
+        <noframes>
+            <body>
+            </body>
+        </noframes>
+    </frameset>
+</div>
+</html>
